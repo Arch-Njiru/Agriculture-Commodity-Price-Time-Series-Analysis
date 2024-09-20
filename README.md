@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on the analysis of agricultural commodities in Kenya, specifically seasonal and perennial crops, livestock, and fresh water fish. The goal of this project is to perform time-series analyses on supply volumes and profitability, ultimately providing actionable insights and recommendations for smallholder farmers.
 
-The analysis covers the period from **January 2022 onwards**, based on a dataset containing information about various commodities, markets, and regions in Kenya. The project explores trends in the following categories:
+The analysis covers the period from **2019 - 2024**, based on a dataset containing information about various commodities, markets, and regions in Kenya. The project explores trends in the following categories:
 - Seasonal Crops
 - Perennial Crops
 - Livestock
