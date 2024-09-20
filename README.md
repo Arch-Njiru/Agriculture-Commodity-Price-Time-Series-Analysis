@@ -21,10 +21,9 @@ The dataset covers the following key columns:
 - `commodity`: The name of the agricultural product.
 - `market`: The marketplace where the product is sold.
 - `county`: The region where the market is located.
-- `volume_supplied_kg`: The quantity of the commodity supplied (in kilograms).
+- `volume_supplied_tonnes`: The quantity of the commodity supplied (in kilograms).
 - `wholesale_price_ksh`: The wholesale price in Kenyan Shillings (KSh).
 - `retail_price_ksh`: The retail price in Kenyan Shillings (KSh).
-- `resell_profit_ksh`: The difference between retail and wholesale prices, indicating potential profit.
 
 ## Notebooks
 The analysis is split into the following sections:
@@ -33,7 +32,7 @@ The analysis is split into the following sections:
 3. **Perennial Crops Analysis**: Time-series analysis and profitability for perennial crops.
 4. **Livestock Analysis**: Analysis of livestock and livestock products, segmented by categories (e.g., meat, milk, hide).
 5. **Fresh Water Fish Analysis** (Future): Insights on supply trends in the freshwater fish market.
-6. **Price Prediction Model** (Future): Build a predictive model for wholesale price trends.
+6. **Price Prediction Model** (Future): Build a predictive models for volume and price trends.
 
 ## Key Insights
 Some of the key insights from the analysis include:
